@@ -22,5 +22,5 @@ In this assignment we will learn to:
 
 ### Acknowledgements
 
-https://www.coursera.org/learn/convolutional-neural-networks <br>
+https://www.coursera.org/learn/nlp-sequence-models <br>
 https://www.deeplearning.ai/program/deep-learning-specialization/
